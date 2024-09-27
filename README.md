@@ -1,4 +1,4 @@
-# damn-vulnerability-solutions
+# Damn Vulnerable Defi Solutions
 
 These are my solutions to the infamous Damn Vulnerable Defi: 
 

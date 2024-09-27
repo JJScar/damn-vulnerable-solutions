@@ -3,11 +3,11 @@
 These are my solutions to the infamous Damn Vulnerable Defi: 
 
 
-|   Challenge                       |
--------------------------------------
+| Challenge                         |
+| --------------------------------- |
 | [Unstoppable](Unstoppable.md)     |
 | [Naive receiver](NaiveReciver.md) |
-| [Truster](Truster.md)             | 
+| [Truster](Truster.md)             |
 | [Side Entrance](SideEntrance.md)  |
 | [The Rewarder](TheRewarder.md)    |
 | [Selfie](Selfie.md)               |

@@ -1,5 +1,7 @@
 # Unstoppable
 
+**As Always please try the challenge yourself first! Use your creativity, AI tools, YouTube tutorials on the topic, whatever it takes to try and solve it!**
+
 **Challenge Description:**
 
 ```
